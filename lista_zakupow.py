@@ -17,4 +17,4 @@ for i in range (0,101,1):
 print(divide_list)
 sq = [(element * element * element) for element in divide_list  ]
 print(sq)
-print("Wszystko jest ok")
+print("Prawie ok")
